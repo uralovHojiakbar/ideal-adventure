@@ -1,2 +1,2 @@
 # ideal-adventure
-working with github 
+working with github in first lesson 
